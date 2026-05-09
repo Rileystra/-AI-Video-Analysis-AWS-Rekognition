@@ -164,11 +164,7 @@ aws-rekognition-video-analysis/
 
 ---
 
-## 👤 Author
 
-**Uriel Djantou Fanja**
-📧 urieldjantou@gmail.com
-🔗 [GitHub](https://github.com/YOUR-USERNAME)
 
 ---
 
